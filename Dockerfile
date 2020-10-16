@@ -18,7 +18,7 @@ RUN apk add --update \
   perl \
   pkgconf \
   pkgconfig \
-  python \
+  python3 \
   rtmpdump-dev \
   wget \
   x264-dev \
